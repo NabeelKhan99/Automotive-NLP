@@ -75,7 +75,7 @@ poetry --version
 ### 2. Clone and install dependencies
 
 ```powershell
-git clone https://github.com/yourname/automotive-nlp.git
+git clone https://github.com/NabeelKhan99/Automotive-NLP.git
 cd automotive-nlp
 poetry install
 ```
@@ -131,7 +131,7 @@ Endpoints:
 - `GET /feedbacks/` → List feedbacks  
 - `GET /analyze/` → Run clustering  
 
-Interactive docs: [http://127.0.0.1:7860/docs](http://127.0.0.1:7860/docs)
+
 
 ---
 
