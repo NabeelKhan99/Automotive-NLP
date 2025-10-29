@@ -163,7 +163,7 @@ Cluster: cluster_0  —  count: 3
 
 ---
 
-## ☁️ Future: Cloud Deployment
+##  Future: Cloud Deployment
 
 Coming soon to your nearest cloud!!! 🚀☁️  
 Stay tuned for Hugging Face Spaces, Railway, and other easy deployment options.  
