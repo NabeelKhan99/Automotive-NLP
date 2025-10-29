@@ -1,4 +1,4 @@
-# 🚗 Automotive NLP
+#  Automotive NLP
 
 An **NLP-powered feedback clustering and dynamic pricing system** for the automotive industry.  
 This project analyzes customer complaints, clusters them by technical faults or car make/model, estimates repair costs dynamically, and helps service centers optimize profit margins.
@@ -13,7 +13,7 @@ Built with:
 
 ---
 
-## ✨ Features
+## Features
 
 - Collect structured **customer feedback** (text, car make, car model).
 - Store data safely in **SQLite**.
@@ -24,7 +24,7 @@ Built with:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/
@@ -52,7 +52,7 @@ README.md
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Install Poetry (Windows PowerShell)
 
@@ -94,7 +94,7 @@ python -m spacy download en_core_web_sm
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### CLI (Typer)
 
@@ -145,7 +145,7 @@ poetry run pytest
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 CLI analysis:
 
