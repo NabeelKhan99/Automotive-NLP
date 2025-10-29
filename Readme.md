@@ -135,7 +135,7 @@ Endpoints:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run tests with:
 
@@ -150,7 +150,7 @@ poetry run pytest
 CLI analysis:
 
 ```text
-🔍 Analysis results:
+Analysis results:
 
 Cluster: cluster_0  —  count: 3
   avg_sentiment: -0.65
